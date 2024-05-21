@@ -1,4 +1,4 @@
 # techno-demo
 This is my first git repository
 <br>
-Author-Ayush kumar
+Author-Ayush kumar(technoayu)
